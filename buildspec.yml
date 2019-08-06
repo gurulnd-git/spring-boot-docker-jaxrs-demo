@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - 'Dockerfile'
-    - 'target/spring-boot-docker-demo-1.0-SNAPSHOT.jar'
+    - 'target/spring-boot-docker-demo.jar'
